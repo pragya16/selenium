@@ -3,7 +3,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
-public class testSelenium {
+public class testselenium {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
